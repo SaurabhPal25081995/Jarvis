@@ -1,14 +1,14 @@
 # Jarvis AI Desktop Voice Assistant
 
 Fucntionality of Jarvis Assistant are -
-1. It can play music for you.
-2. It can do Wikipedia searches for you.
-3. It is capable of opening websites like Google, Youtube, etc., in a web browser.
-4. It is capable of opening your code editor or IDE with a single voice command.
+* It can play music for you.
+* It can do Wikipedia searches for you.
+* It is capable of opening websites like Google, Youtube, etc., in a web browser.
+* It is capable of opening your code editor or IDE with a single voice command.
 
-<br>
 We have used various module in this projects like pyttsx3, sapi5, wikipedia, smtplib, speech_recognition.
-<br>
+
+
 **speak()** function will take audio as an argument, and then, it will pronounce it.<br>
 **pyttsx3** help us to convert text to speech. In short, it is a text-to-speech library. In case this would not work use **pypiwin32**.<br>
 **sapi5 -** Speech API developed by Microsoft and Helps in synthesis and recognition of voice.<br>
